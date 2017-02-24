@@ -1,3 +1,8 @@
+/*
+	Cesar Camarena
+	Areeb Khan
+	Lab 6
+*/
 #include "Maze.h"
 #include "Color.h"
 #include "Rect.h"
